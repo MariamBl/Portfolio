@@ -8,7 +8,7 @@ const Certificates = () => {
         <>
             <div className="container">
                 <div className="row my-3">
-                    <div className="col-md-4">
+                    <div className="col-md-4 mt-4">
                         <div class="card"   >
                             <img src={img1} alt="Ma photo de profil" />
                             <div class="card-body">
@@ -20,7 +20,7 @@ const Certificates = () => {
                         </div>
                     </div>
 
-                    <div className="col-md-4">
+                    <div className="col-md-4 mt-4">
                         <div class="card" >
                             <img src={img2} alt="Ma photo de profil" />
                             <div class="card-body">
@@ -32,7 +32,7 @@ const Certificates = () => {
                         </div>
                     </div>
 
-                    <div className="col-md-4">
+                    <div className="col-md-4 mt-4">
                         <div class="card" >
                             <img src={img3} alt="Ma photo de profil" />
                             <div class="card-body">
